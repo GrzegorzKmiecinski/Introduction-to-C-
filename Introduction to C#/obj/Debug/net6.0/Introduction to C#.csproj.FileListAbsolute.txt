@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\bin\Debug\net6.0\Introduction to C#.exe
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\bin\Debug\net6.0\Introduction to C#.deps.json
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\bin\Debug\net6.0\Introduction to C#.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\bin\Debug\net6.0\Introduction to C#.dll
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\bin\Debug\net6.0\Introduction to C#.pdb
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.dll
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\refint\Introduction to C#.dll
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.pdb
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\Introduction to C#.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\C#\c#-course-1\Introduction to C#\Introduction to C#\obj\Debug\net6.0\ref\Introduction to C#.dll
