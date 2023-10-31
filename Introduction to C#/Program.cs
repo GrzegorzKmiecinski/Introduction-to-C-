@@ -1,12 +1,12 @@
-﻿int counter = 0;
+﻿var fibonacciNumbers = new List<int> { 1, 1 };
 
-for(int i = 1; i < 20; i++)
+while (fibonacciNumbers.Count < 20)
 {
-    if (i % 3 == 0)
-    {
-
-        counter = counter + i;
-    }
+    fibonacciNumbers.Add(fibonacciNumbers[fibonacciNumbers.Count - 1] +
+        fibonacciNumbers[fibonacciNumbers.Count - 2]);
 }
 
-Console.WriteLine($"The sum of all integers 1 through 20 is: {counter}");
+for (int i = 0; i < fibonacciNumbers.Count; i++)
+{
+    Console.WriteLine(fibonacciNumbers[i]);
+}
